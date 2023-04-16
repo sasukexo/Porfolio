@@ -169,5 +169,30 @@ p{
       transform: scale(1.2);
     }
 
+      
+    .navbar a {
+      display: block;
+      padding: 10px;
+      margin: 0 10px;
+      text-decoration: none;
+      background-color: #AEC2B6;
+      font-weight: bold;
+    }
+    
+    .navbar a:hover {
+      color: #fff;
+      background-color: #333;
+    }
+    @media (max-width: 768px) {
+      .navbar {
+        flex-direction: column;
+      }
+    }
+    .nav-link{
+      color:#454545;
+    }
+        
+
+
     
     
