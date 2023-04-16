@@ -36,6 +36,7 @@ h3{
 
 .top-container{
     background-color: #AEC2B6;
+    
     position: relative;
     padding-top: 100px;
 }
@@ -113,6 +114,8 @@ p{
     background-image: -o-linear-gradient(top, #30e3cb, #2bc4ad);
     background-image: linear-gradient(to bottom, #30e3cb, #2bc4ad);
     transform: scale(1.2);
+    font-weight: bold;
+    color:#000000;
     
     text-decoration: none;
   }
