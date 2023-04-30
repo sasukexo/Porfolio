@@ -27,7 +27,7 @@ h3{
    padding-bottom: 10px;
 }
 
-
+/* for image */
 .bottom-cloud{
     position: absolute;
     left:250px;
@@ -62,7 +62,7 @@ p{
   
 
 }
-
+/* style for images */
 .mine{
     border-radius: 100%;
     height: 400px;
@@ -120,6 +120,8 @@ p{
     
     text-decoration: none;
   }
+
+  /* style for horizontal line */
   hr{
     border-top-style: dotted;
     border-bottom-style:none;
@@ -159,7 +161,7 @@ p{
     
       width: 40px; /* adjust the size as needed */
       height: 40px;
-      border-radius: 50%; /* optional: round the image */
+      border-radius: 50%; /* optiona l: round the image */
     }
     
     
@@ -174,7 +176,7 @@ p{
       transform: scale(1.2);
     }
 
-      
+      /* style for navbar */
     .navbar a {
       display: block;
       padding: 10px;
