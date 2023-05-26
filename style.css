@@ -129,6 +129,10 @@ p{
     
     text-decoration: none;
   }
+  span{
+    font-size: 25px;
+    text-align: center;
+  }
 
   /* style for horizontal line */
   hr{
@@ -164,7 +168,9 @@ p{
   .copyright{
     color: #eaf6f6;
     font-size:1rem;
-    padding: 20px 0pxsss;
+    padding: 20px 0px;
+    font-family: 'Caveat', cursive;
+    text-transform: uppercase;
   }
   .a{
     
